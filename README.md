@@ -2,9 +2,7 @@
 
 **A Stealthy Linux Security Demonstration**
 
-Author: Hasan Malek  
-GitHub: [Hasan-Malek](https://github.com/Hasan-Malek)  
-LinkedIn: [Hasan Malek](https://linkedin.com/in/hasan-malek-125036297)  
+Author: Hasan Malek 
 
 ![Python](https://img.shields.io/badge/Python-3.6+-3776AB.svg?logo=python) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Purpose](https://img.shields.io/badge/Purpose-Educational-red.svg)
 
