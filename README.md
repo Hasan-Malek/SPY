@@ -8,6 +8,11 @@ Author: Hasan Malek
 
 ---
 
+## 🎥 Demo Video
+**Watch SPY in action on a virtual Kali Linux machine (hosted on Arch Linux)! This video shows the Snake game running, the stealthy payload execution
+
+https://github.com/user-attachments/assets/adfa2684-a89d-4bd3-9196-6a8f6126c7f7
+
 ## 📖 About
 
 **SPY (Snake Plays You)** is a sophisticated proof-of-concept that blends a fully functional **terminal-based Snake game** with a hidden payload, demonstrating how attackers can embed malicious code in seemingly harmless programs. 🕵️‍♂️
