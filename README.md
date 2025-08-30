@@ -9,9 +9,10 @@ Author: Hasan Malek
 ---
 
 ## 🎥 Demo Video
-**Watch SPY in action on a virtual Kali Linux machine (hosted on Arch Linux)! This video shows the Snake game running, the stealthy payload execution
+Watch SPY in action on a virtual Kali Linux machine (hosted on Arch Linux)! This video shows the Snake game running, the stealthy payload execution
 
 https://github.com/user-attachments/assets/adfa2684-a89d-4bd3-9196-6a8f6126c7f7
+
 
 ## 📖 About
 
