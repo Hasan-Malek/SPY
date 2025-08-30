@@ -71,8 +71,7 @@ To run **SPY**:
 - **Python 3.6+**: Uses standard library modules (`curses`, `random`, `time`, `sys`, `os`, `shutil`, `subprocess`, `threading`, `enum`). No additional Python packages needed! 🐍
 - **System Dependencies**: Requires `curl` or `wget`, which are pre-installed on most Linux distributions (e.g., Debian, Ubuntu, Arch, Fedora). The script automatically checks for their availability. 🌐
 - **Systemd**: The target system must support systemd user services (standard in most modern Linux distros).
-- **Terminal**: A terminal with at least 20x10 size for the game interface.
-
+  
 ---
 
 ## 🚀 Installation
